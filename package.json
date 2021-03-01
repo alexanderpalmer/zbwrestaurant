@@ -1,0 +1,23 @@
+{
+  "name": "zbwrestaurant",
+  "version": "1.0.0",
+  "description": "Test-Environment for ZbW",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^8.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderpalmer/zbwrestaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderpalmer/zbwrestaurant/issues"
+  },
+  "homepage": "https://github.com/alexanderpalmer/zbwrestaurant#readme"
+}
